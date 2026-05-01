@@ -38,4 +38,4 @@ The application calculates fees per hour (prorated by the minute) using the foll
 ### Running the Application
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone https://github.com/250101370081-cpu/Vehicle-Parking-Management.git
